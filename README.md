@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2469-convert-the-temperature](https://github.com/Sreya1705/Leetcode_Solutions_Sreya/tree/master/2469-convert-the-temperature) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sreya1705/Leetcode_Solutions_Sreya/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sreya1705/Leetcode_Solutions_Sreya/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sreya1705/Leetcode_Solutions_Sreya/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
